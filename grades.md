@@ -8,4 +8,7 @@
 |I3 | 10/10 |            |
 |D3 | 40/40 |  Good Feature. Looking forward to demo !!          |
 |I4 | 10/10 |            |
+|D2 | 110/110 |           |
+|I5 | 10/10 |           |
+
 
